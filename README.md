@@ -34,4 +34,4 @@ Analysis of Berlin Airbnb listings to identify pricing trends, neighborhood popu
 - Listings with >50 reviews are booked 30% more often
 
 ## 📈 Sample Visualization
-![Price Distribution](visualizations/price_vs_avilability.png)
+![Price Distribution](visualizations/price_vs_availability.png)
